@@ -1,0 +1,34 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-07-10 14:54:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2022-07-10 14:54:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-07-10 14:54:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2022-07-10 14:54:32 +0900"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2022-07-10 14:57:44 +0900",
+      "minecraft:plains": "2022-07-10 14:53:53 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
